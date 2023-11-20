@@ -9,13 +9,13 @@ body {
 .square {
     text-align: center;
     width: 50px;
-    background: #eee;
+    background: #DB7093;
     display: inline-block;
     padding: 40px;
     font-size: 60px;
     margin: 5px;
     cursor: pointer;
-    color: #eee;
+    color: #DB7093;
 }
 
 .gamer, .winner {
@@ -27,7 +27,7 @@ button {
     margin-top: 10px;
     width: 100px;
     height: 30px;
-    background: #eee;
+    background: #DB7093;
     cursor: pointer;
 }
 
@@ -42,5 +42,5 @@ footer {
 
 footer a {
     text-decoration: none;
-    color: #FFF;
+    color: #ADD8E6;
 }
